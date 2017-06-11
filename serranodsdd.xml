@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <serranoltexx>
+        <serranodsdd>
             <Filename>RR-N-v5.8.3-201706015-serranodsdd.zip</Filename>
             <RomUrl
                 id="rom"
@@ -19,6 +19,6 @@
                 id="xda"
                 title="XDA"
                 description="Visit the ResurrectionRemix thread of Samsung Galaxy S4 Mini">https://forum.xda-developers.com/galaxy-s4-mini/development/rom-ressurectionremix-5-8-x-n7-1-x-t3615747</XDAUrl>
-        </serranoltexx>
+        </serranodsdd>
     </Stable>
 </SlimOTA>
