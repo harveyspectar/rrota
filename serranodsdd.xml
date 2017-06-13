@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <serranoltexx>
-            <Filename>RR-N-v5.8.3-201706015-serranodsdd.zip</Filename>
+        <serrano3gxx>
+            <Filename>RR-N-v5.8.3-20170612-serrano3gxx.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranodsdd/RR-N-v5.8.3-20170605-serranodsdd.zip/download</RomUrl>
+                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serrano3gxx/RR-N-v5.8.3-20170612-serrano3gxx.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the ResurrectionRemix thread of Samsung Galaxy S4 Mini">https://forum.xda-developers.com/galaxy-s4-mini/development/rom-ressurectionremix-5-8-x-n7-1-x-t3615747</XDAUrl>
+        </serrano3gxx>
+        <serranoltexx>
+            <Filename>RR-N-v5.8.3-20170612-serranoltexx.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranoltexx/RR-N-v5.8.3-20170612-serranoltexx.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
