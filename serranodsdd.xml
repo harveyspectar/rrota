@@ -40,11 +40,11 @@
                 description="Visit the ResurrectionRemix thread of Samsung Galaxy S4 Mini">https://forum.xda-developers.com/galaxy-s4-mini/development/rom-ressurectionremix-5-8-x-n7-1-x-t3615747</XDAUrl>
         </serranoltexx>
          <serranodsdd>
-            <Filename>RR-N-v5.8.3-201706015-serranodsdd.zip</Filename>
+            <Filename>RR-N-v5.8.3-201706012-serranodsdd.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranodsdd/RR-N-v5.8.3-20170605-serranodsdd.zip/download</RomUrl>
+                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranodsdd/RR-N-v5.8.3-201706012-serranodsdd.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
