@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <serrano3gxx>
-            <Filename>RR-N-v5.8.3-20170612-serrano3gxx.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170618-serrano3gxx.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serrano3gxx/RR-N-v5.8.3-20170612-serrano3gxx.zip/download</RomUrl>
+                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serrano3gxx/RR-N-v5.8.3-20170618-serrano3gxx.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -21,11 +21,11 @@
                 description="Visit the ResurrectionRemix thread of Samsung Galaxy S4 Mini">https://forum.xda-developers.com/galaxy-s4-mini/development/rom-ressurectionremix-5-8-x-n7-1-x-t3615747</XDAUrl>
         </serrano3gxx>
         <serranoltexx>
-            <Filename>RR-N-v5.8.3-20170612-serranoltexx.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170618-serranoltexx.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranoltexx/RR-N-v5.8.3-20170612-serranoltexx.zip/download</RomUrl>
+                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranoltexx/RR-N-v5.8.3-20170618-serranoltexx.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
