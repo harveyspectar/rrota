@@ -25,7 +25,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranoltexx/RR-N-v5.8.3-20170624-serranoltexx.zip/download</RomUrl>
+                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/RR-N-v5.8.3-20170624-serranoltexx.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
